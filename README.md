@@ -1,6 +1,7 @@
 # Matheus Machado
 
 **Economic Geologist**
+<br />
 **Data Science student at @dncgroup**
 
 -🌎 I'm looking to contribute and develop applications for geological use, student apps, machine learning.... but open to any other new challenges.
