@@ -1,6 +1,7 @@
 # Matheus Machado
 
 **Economic Geologist**
+<br />
 **Data Science student at @dncgroup**
 
 -🌎 I'm looking to contribute and develop applications for geological use, student apps, machine learning.... but open to any other new challenges.
@@ -20,9 +21,7 @@
 [images]: https://github.com/mattlamachado/mattlamachado/tree/master/img
 -->
 
-<img align="left" alt="Python" width="90px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="100px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
-
