@@ -7,7 +7,7 @@
 -🌎 I'm looking to contribute and develop applications for geological use, student apps, machine learning.... but open to any other new challenges.
 
 <img align="left" alt="Linkedin" width="50px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" href="https://www.linkedin.com/in/mattlamachado" style="padding-right:10px;" />
-<img align="left" alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" href="[https://www.linkedin.com/in/mattlamachado](https://www.instagram.com/matt_machado)" style="padding-right:10px;" />
+<img align="left" alt="Instagram" width="40px" href="https://www.instagram.com/matt_machado" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"  style="padding-right:10px;" />
 
 [![LinkedIn](https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/mattlamachado)
 
