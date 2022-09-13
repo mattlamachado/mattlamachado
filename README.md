@@ -6,8 +6,8 @@
 
 - 🌎 I'm looking to contribute and develop applications for geological use, student apps, machine learning.... but open to any other new challenges.
 
-[<img align="left" alt="LinkedIn" width="50px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>][Linkedin]
-[<img align="left" alt="Instagram" width="43px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"/>][Instagram]
+[<img align="left" alt="LinkedIn" width="40px" src="icons/icons8-linkedin.svg"/>][Linkedin]
+[<img align="left" alt="Instagram" width="40px" src="icons/icons8-instagram.svg"/>][Instagram]
 
 [Instagram]: https://www.instagram.com/matt_machado
 [Linkedin]: https://www.linkedin.com/in/mattlamachado
@@ -24,7 +24,11 @@
 
 -->
 
-<img align="left" alt="Python" width="40px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="40px" src="icons/icons8-python.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="40px" src="icons/mysql.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="40px" src="icons/icons8-git.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="40px" src="icons/mongodb.svg" style="padding-right:10px;" />
+
+
+
+
