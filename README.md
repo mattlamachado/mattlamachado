@@ -1,11 +1,13 @@
 # Matheus Machado
 
-**Economic Geologist**
+**MSc. in Economic Geology**
 <br />
-**Data Science student at @dncgroup**
+**Data Scientist**
 
-- 🌎 I'm looking to contribute and develop applications for geological use, student apps, machine learning.... but open to any other new challenges.
+- 🌎 I'm looking to contribute and develop applications for geological use, automation, ETL, DataViz, machine learning....
+- Have a look at my last mineral-EDS clusterization app [MineralData_Clustering](https://github.com/mattlamachado/MineralogicData_Clustering/tree/main).
 
+  
 [<img align="left" alt="LinkedIn" width="40px" src="icons/icons8-linkedin.svg"/>][Linkedin]
 [<img align="left" alt="Instagram" width="40px" src="icons/icons8-instagram.svg"/>][Instagram]
 
@@ -28,6 +30,10 @@
 <img align="left" alt="MySQL" width="40px" src="icons/mysql.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="40px" src="icons/icons8-git.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="40px" src="icons/mongodb.svg" style="padding-right:10px;" />
+
+
+<br /><br /><br />![](https://komarev.com/ghpvc/?username=mattlamachado)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattlamachado&layout=compact)  
 
 
 
